@@ -83,13 +83,11 @@ I am a **Software Engineer** with 3 years of experience, committed to engineerin
 
 ---
 
-<!-- 
 ### 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CapedCrusader03/CapedCrusader03/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
--->
 
 ---
 
