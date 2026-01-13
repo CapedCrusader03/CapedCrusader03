@@ -66,9 +66,9 @@ I am a **Software Engineer** with 3 years of experience, committed to engineerin
 | **AI Code Reviewer** | Event-driven AI agent using Gemini API to automate code quality scores and security audits. | Python, FastAPI, Kafka, Next.js, Gemini API | [View Repo](https://github.com/CapedCrusader03) |
 | **Vibe Matcher** | Fault-tolerant microservices ecosystem with Hystrix circuit breakers and Spring Cloud. | Java, Spring Boot, Spring Security, Redis, RabbitMQ | [View Repo](https://github.com/CapedCrusader03) |
 
+<!-- 
 ---
 
-<!-- 
 ### 📈 GitHub Stats & Trophies
 
 <p align="center">
@@ -94,11 +94,8 @@ I am a **Software Engineer** with 3 years of experience, committed to engineerin
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/CapedCrusader03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kshitij-kumar-a-sentient-bot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://x.com/KshitijCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
 </p>
 
 ---
-
-<p align="center">
-  <i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
-</p>
