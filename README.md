@@ -62,8 +62,8 @@ I am a **Software Engineer** with 3 years of experience, committed to engineerin
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **K-Docs** | Real-time collaborative doc editor with CRDTs and WebSockets for conflict-free editing. | TypeScript, Docker, React, PostgreSQL, AWS | [View Repo](https://github.com/CapedCrusader03) |
-| **AI Code Reviewer** | Event-driven AI agent using Gemini API to automate code quality scores and security audits. | Python, FastAPI, Kafka, Next.js, Gemini API | [View Repo](https://github.com/CapedCrusader03) |
+| **K-Docs** | Real-time collaborative doc editor with CRDTs and WebSockets for conflict-free editing. | TypeScript, Docker, React, PostgreSQL, AWS | [View Repo](https://github.com/CapedCrusader03/K-Docs) |
+| **AI Code Reviewer** | Event-driven AI agent using Gemini API to automate code quality scores and security audits. | Python, FastAPI, Kafka, Next.js, Gemini API | [View Repo](https://github.com/CapedCrusader03/Code-Reviewer) |
 | **Vibe Matcher** | Fault-tolerant microservices ecosystem with Hystrix circuit breakers and Spring Cloud. | Java, Spring Boot, Spring Security, Redis, RabbitMQ | [View Repo](https://github.com/CapedCrusader03) |
 
 <!-- 
