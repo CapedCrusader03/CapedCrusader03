@@ -45,7 +45,7 @@ I am a **Software Engineer** with 3 years of experience, committed to engineerin
 #### 🤖 Agentic AI & LLM Engineering
 - **Frameworks:** LangGraph, LlamaIndex
 - **Workflows:** Agentic Workflows, RAG Pipelines
-- **Vector DBs:** PgVector
+- **Vector DBs:** PgVector, Pinecone
 
 #### 🗄️ Databases & Storage
 - **SQL:** PostgreSQL, MySQL, Oracle, MSSQL
