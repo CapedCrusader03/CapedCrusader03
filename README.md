@@ -19,7 +19,7 @@
 
 I am a **Software Engineer** with 3 years of experience, committed to engineering excellence and shipping high-quality, fault-tolerant code. I prioritize rigorous code quality while designing low-latency, scalable software. 
 
-- 🔭 **Focus Areas:** Distributed Systems and Agentic AI.
+- 🔭 **Focus Areas:** Backend, Databases, Distributed Systems and Agentic AI.
 - 🛠️ **Core Philosophy:** Taking full ownership of performance and reliability from design to deployment.
 - 🌱 **Learning:** Currently pursuing MS in Computer Science at **University at Buffalo**.
 
@@ -38,7 +38,7 @@ I am a **Software Engineer** with 3 years of experience, committed to engineerin
 </p>
 
 #### 🌐 Backend & Distributed Systems
-- **Frameworks:** Spring Boot, FastAPI, Spring Cloud, Node.js, Hibernate
+- **Frameworks:** FastAPI, Spring Boot, Spring Cloud, Node.js, Hibernate
 - **Messaging:** Apache Kafka, RabbitMQ
 - **Streaming:** Apache Flink
 
@@ -54,7 +54,7 @@ I am a **Software Engineer** with 3 years of experience, committed to engineerin
 
 #### ☁️ DevOps & Infrastructure
 - **Tools:** AWS, Docker, Kubernetes, Airflow, Git, Apache Tomcat, NginX, Maven
-- **Monitoring:** Prometheus, Grafana
+- **Monitoring:** Prometheus, Grafana, Telemetry
 
 ---
 
